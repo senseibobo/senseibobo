@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @senseibobo
-- 👀 I’m interested in game development 
-- 🌱 I’m currently learning C++ and web development
-- 📫 How to reach me: senseiboboo@gmail.com
+game development
